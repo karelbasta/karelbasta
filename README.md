@@ -9,4 +9,3 @@
 
 ## Examples of my work:  
 * My repos  
-* Curently working on some webpages, i will add them here
