@@ -4,7 +4,7 @@
 🔭 I’m currently working on passing school.  
 🌱 I’m currently learning some real things today companies look for, because school is not teaching me them.  
 🤔 I’m looking for help with understanding todays IT labor.  
-📫 How to reach me: bastakka@gmail.com, socials @bastakka
+📫 How to reach me: bastakka@gmail.com, socials @bastakka  
 ⚡ Fun fact: I have seen and did so many things I can't do any of them well, but I can talk about a lot of them.  
 That is maybe why I blog instead of doing something productive...
 
