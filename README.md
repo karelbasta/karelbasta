@@ -7,4 +7,4 @@
               That is maybe why I blog instead of doing something productive...
 
 ## Examples of my work:  
-* My repos & Their respective pages
+* My repos & Their respective websites.  
