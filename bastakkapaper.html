@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+        width: 100vw;
+        height: 100vh;
+      }
+      svg {
+        position: absolute;
+        top: 0; left: 0; right: 0; bottom: 0;
+        width: 100%;
+        height: 100%;
+        fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke
+      }
+    </style>
+    <title>Bastakkpapaer</title>
+  </head>
+  <body>
+    <svg xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient
+           id="linearGradient1396">
+          <stop
+             id="stop1392"
+             offset="0"
+             style="stop-color:#f120e5;stop-opacity:1" />
+          <stop
+             id="stop1394"
+             offset="1"
+             style="stop-color:#0cfaff;stop-opacity:0.97674417" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="userSpaceOnUse"
+           y2="-75%"
+           x2="100%"
+           y1="70%"
+           x1="0"
+           id="linearGradient1398"
+           xlink:href="#linearGradient1396" />
+      </defs>
+      <g>
+        <rect
+           y="0"
+           x="0"
+           height="100%"
+           width="100%"
+           id="background"
+           style="fill:url(#linearGradient1398);" />
+      </g>
+    </svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3440 1440" preserveAspectRatio="none">
+      <defs
+         id="defs853">
+        <linearGradient
+           id="linearGradient1406">
+          <stop
+             id="stop1402"
+             offset="0"
+             style="stop-color:#ffffff;stop-opacity:0.14341085" />
+          <stop
+             id="stop1404"
+             offset="1"
+             style="stop-color:#ffffff;stop-opacity:0;" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="userSpaceOnUse"
+           y2="-50%"
+           x2="100%"
+           y1="-15%"
+           x1="50%"
+           id="linearGradient1408"
+           xlink:href="#linearGradient1406" />
+      </defs>
+      <g>
+        <path
+           id="midline"
+           d="m 888.93426,0 c 371.15334,632.66221 960.36534,720.000015 1321.27964,1440 H 3440 V 0 Z"
+           style="fill:url(#linearGradient1408);" />
+      </g>
+    </svg>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3440 1440">
+      <g>
+        <circle
+           r="40%"
+           cy="125%"
+           cx="10%"
+           id="circleLeft"
+           style="fill:#ffffff;fill-opacity:0.14341084;" />
+       <circle
+          r="40%"
+          cy="-25%"
+          cx="90%"
+          id="circleRight"
+          style="fill:#ffffff;fill-opacity:0.14341084;" />
+      </g>
+    </svg>
+
+    <script defer async>(()=>{"use strict";(()=>{const e=Number(d("speed",2)),t=Number(d("radius",10)),r=Number(d("curveSpeed",10)),a=Number(d("curveRadius",50)),i=Number(d("minDistance",25)),c=[["circleLeft","wiggle"],["circleRight","wiggle"],["midline","cubicWiggle"]],s=/c (?:(\d+(?:\.\d+)?),(\d+(?:\.\d+)?)) (?:(\d+(?:\.\d+)?),(\d+(?:\.\d+)?)) (?:(\d+(?:\.\d+)?),(\d+(?:\.\d+)?))/,n={};let l;function u(e=0,t=1){return e+Math.random()*(t-e)}function o(e,t){return Array(e).fill(0).map(t)}function d(e,t){return new URL(window.location.href).searchParams.get(e)||t}!function d(g){const m=l?g-l:0;l=g;for(const[l,d]of c){const{element:c,vectors:g}=n[l]=n[l]||{element:document.getElementById(l),vectors:o({wiggle:1,cubicWiggle:2}[d],(()=>o(2,(()=>({value:0,lastValue:0,nextValue:0,progress:0,time:0})))))},b={wiggle:e,cubicWiggle:r}[d],w={wiggle:t,cubicWiggle:a}[d];for(const e of g)for(const t of e){if(t.progress+=m,t.progress>=t.time){t.progress=0,t.lastValue=t.nextValue;let e=0;do{t.nextValue=u(-w,w),e=Math.abs(t.lastValue-t.nextValue)}while(i<2*w&&e<i/100*w);t.time=e/b*1e3}const e=(f=t.progress/t.time)<.5?2*f*f:(4-2*f)*f-1;t.value=t.lastValue*(1-e)+t.nextValue*e}switch(d){case"wiggle":c.style.transform=`translate3D(${g[0][0].value}%, ${g[0][1].value}%, 0px)`;break;case"cubicWiggle":c.hasAttribute("data-def-d")||c.setAttribute("data-def-d",c.getAttribute("d"));const e=c.getAttribute("data-def-d");let[t,r,a,i,n,l,u]=e.match(s);const o=[[r,a],[i,n],[l,u]];for(const[e,t]of Object.entries(g)){const r=o[Number(e)];t.forEach(((e,t)=>r[t]=Number(r[t])+10*e.value))}c.setAttribute("d",e.replace(s,"c "+o.map((e=>e.join(","))).join(" ")))}}var f;window.requestAnimationFrame(d)}(0)})()})();</script>
+  </body>
+</html>
