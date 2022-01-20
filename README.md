@@ -1,4 +1,5 @@
 ### 👋 Howdy!, I'm Karel "[Bastakka][website]" Bašta 🇨🇿
+[![Website](https://img.shields.io/website?label=bastakka.eu&style=for-the-badge&url=https%3A%2F%2Fbastakka.eu)](https://bastakka.eu)
 
 ## ⭐ I'm a high school student looking for fun!
 - 🎓 Attending high school [Purkyňka](http://www.sspbrno.cz/)
@@ -30,6 +31,7 @@
 <img align="left" alt="NGINX" width="22px" src="icons/nginx.svg" />
 <img align="left" alt="PHP" width="22px" src="icons/php.svg" />
 <img align="left" alt="Python" width="22px" src="icons/python.svg" />
+<img align="left" alt="VSCode" width="22px" src="icons/vscode.svg" />
 <img align="left" alt="Windows" width="22px" src="icons/windows.svg" />
 <br />
 <br />
