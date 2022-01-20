@@ -13,6 +13,8 @@
 [<img align="left" alt="bastakka" width="22px" src="icons/youtube.svg" />][youtube]
 [<img align="left" alt="bastakka" width="22px" src="icons/twitch.svg" />][twitch]
 
+<br />
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
