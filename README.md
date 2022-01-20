@@ -1,1 +1,1 @@
-### Howdy!, I'm Karel Bašta - aka [Bastakka][website] 🇨🇿
+### Howdy!, I'm Karel Bašta - aka [bastakka][website] 🇨🇿
