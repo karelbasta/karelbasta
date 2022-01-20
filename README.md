@@ -16,7 +16,7 @@
 
 ### Familiar with:
 <img align="left" alt="bastakka" width="22px" src="icons/arduino.svg" />
-
+<br />
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
