@@ -1,11 +1,11 @@
-### Howdy!, I'm Karel "[Bastakka][website]" Bašta 🇨🇿
+### 👋 Howdy!, I'm Karel "[Bastakka][website]" Bašta 🇨🇿
 
-## I'm a high school student looking for fun!
+## ⭐ I'm a high school student looking for fun!
 - 🎓 Attending high school [Purkyňka](http://www.sspbrno.cz/)
 - 🔭 Looking for any interesting opportunity for personal development
 - 🌱 Learning some good practices
 
-### Connect with me
+### 🔌 Connect with me
 [<img align="left" alt="bastakka.eu" width="22px" src="icons/globe.svg" />][website]
 [<img align="left" alt="bastakkafb" width="22px" src="icons/facebook.svg" />][facebook]
 [<img align="left" alt="bastakkaig" width="22px" src="icons/instagram.svg" />][instagram]
@@ -14,7 +14,7 @@
 [<img align="left" alt="bastakka" width="22px" src="icons/twitch.svg" />][twitch]
 <br />
 
-### Familiar with:
+### 😎 Familiar with:
 <img align="left" alt="bastakka" width="22px" src="icons/arduino.svg" />
 <br />
 
