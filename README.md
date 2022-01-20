@@ -8,12 +8,14 @@
 
 ### 🔌 Connect with me
 [<img align="left" alt="bastakka.eu" width="22px" src="icons/globe.svg" />][website]
+[<img align="left" alt="bastakka" width="22px" src="icons/linked-in.svg" />][LinkedIn]
+[<img align="left" alt="bastakka" width="22px" src="icons/github.svg" />][GitHub]
 [<img align="left" alt="bastakkafb" width="22px" src="icons/facebook.svg" />][facebook]
 [<img align="left" alt="bastakkaig" width="22px" src="icons/instagram.svg" />][instagram]
 [<img align="left" alt="bastakka" width="22px" src="icons/twitter.svg" />][twitter]
 [<img align="left" alt="bastakka" width="22px" src="icons/reddit.svg" />][reddit]
-[<img align="left" alt="bastakka" width="22px" src="icons/youtube.svg" />][youtube]
-[<img align="left" alt="bastakka" width="22px" src="icons/twitch.svg" />][twitch]
+[<img align="left" alt="bastakkayt" width="22px" src="icons/youtube.svg" />][youtube]
+[<img align="left" alt="bastakkatv" width="22px" src="icons/twitch.svg" />][twitch]
 <br />
 
 ### 😎 Familiar with:
