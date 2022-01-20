@@ -20,17 +20,24 @@
 <img align="left" alt="Arduino" width="22px" src="icons/arduino.svg" />
 <img align="left" alt="Bash" width="22px" src="icons/bash.svg" />
 <img align="left" alt="C" width="22px" src="icons/c.svg" />
+<img align="left" alt="Cisco" width="22px" src="icons/cisco.svg" />
 <img align="left" alt="Cpp" width="22px" src="icons/cpp.svg" />
 <img align="left" alt="CSS" width="22px" src="icons/css.svg" />
+<img align="left" alt="FFmpeg" width="22px" src="icons/ffmpeg.svg" />
+<img align="left" alt="Ghost" width="22px" src="icons/ghost.png" />
 <img align="left" alt="Git" width="22px" src="icons/git.svg" />
 <img align="left" alt="Github" width="22px" src="icons/github.svg" />
 <img align="left" alt="HTML" width="22px" src="icons/html.svg" />
 <img align="left" alt="Linux" width="22px" src="icons/linux.svg" />
 <img align="left" alt="MariaDB" width="22px" src="icons/mariadb.svg" />
 <img align="left" alt="MySQL" width="22px" src="icons/mysql.svg" />
+<img align="left" alt="Netdata" width="22px" src="icons/netdata.svg" />
 <img align="left" alt="NGINX" width="22px" src="icons/nginx.svg" />
 <img align="left" alt="PHP" width="22px" src="icons/php.svg" />
 <img align="left" alt="Python" width="22px" src="icons/python.svg" />
+<img align="left" alt="QNAP" width="22px" src="icons/qnap.svg" />
+<img align="left" alt="Serviio" width="22px" src="icons/serviio.svg" />
+<img align="left" alt="Syncthing" width="22px" src="icons/syncthing.svg" />
 <img align="left" alt="VSCode" width="22px" src="icons/vscode.svg" />
 <img align="left" alt="Windows" width="22px" src="icons/windows.svg" />
 <br />
