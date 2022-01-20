@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/website?label=bastakka.eu&style=for-the-badge&url=https%3A%2F%2Fbastakka.eu)](https://bastakka.eu)
 
 ## ⭐ I'm a high school student looking for fun!
-- 🎓 Attending high school [Purkyňka](http://www.sspbrno.cz/)
+- 🎓 Attending [Purkyňka](http://www.sspbrno.cz/) high school 
 - 🔭 Looking for any interesting opportunity for personal development
 - 🌱 Learning some good practices
 
