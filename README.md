@@ -8,8 +8,8 @@
 
 ### 🔌 Connect with me
 [<img align="left" alt="bastakka.eu" width="22px" src="icons/globe.svg" />][website]
-[<img align="left" alt="bastakka" width="22px" src="icons/linked-in.svg" />][LinkedIn]
-[<img align="left" alt="bastakka" width="22px" src="icons/github.svg" />][GitHub]
+[<img align="left" alt="bastakka" width="22px" src="icons/linked-in.svg" />][linkedin]
+[<img align="left" alt="bastakka" width="22px" src="icons/github.svg" />][github]
 [<img align="left" alt="bastakkafb" width="22px" src="icons/facebook.svg" />][facebook]
 [<img align="left" alt="bastakkaig" width="22px" src="icons/instagram.svg" />][instagram]
 [<img align="left" alt="bastakka" width="22px" src="icons/twitter.svg" />][twitter]
@@ -61,6 +61,8 @@
 </details>
 
 [website]: https://bastakka.eu
+[linkedin]: https://www.linkedin.com/in/bastakka/
+[github]: https://github.com/bastakka
 [facebook]: https://www.facebook.com/bastakkafb
 [instagram]: https://www.instagram.com/bastakkaig
 [twitter]: https://twitter.com/bastakka
