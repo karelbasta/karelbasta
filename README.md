@@ -30,6 +30,7 @@
 <img align="left" alt="NGINX" width="22px" src="icons/nginx.svg" />
 <img align="left" alt="PHP" width="22px" src="icons/php.svg" />
 <img align="left" alt="Python" width="22px" src="icons/python.svg" />
+<img align="left" alt="Windows" width="22px" src="icons/windows.svg" />
 <br />
 
 ### 📕 Latest Blog Posts
