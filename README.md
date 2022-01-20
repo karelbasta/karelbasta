@@ -32,6 +32,7 @@
 <img align="left" alt="Python" width="22px" src="icons/python.svg" />
 <img align="left" alt="Windows" width="22px" src="icons/windows.svg" />
 <br />
+<br />
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
