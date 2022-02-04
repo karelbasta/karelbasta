@@ -1,5 +1,6 @@
 ### 👋 Howdy!, I'm Karel "[Bastakka][website]" Bašta 🇨🇿
 [![Website](https://img.shields.io/website?label=bastakka.eu&style=for-the-badge&url=https%3A%2F%2Fbastakka.eu)](https://bastakka.eu)
+[![Website](https://img.shields.io/website?label=radio.bastakka.eu&style=for-the-badge&url=https%3A%2F%2Fradio.bastakka.eu)](https://radio.bastakka.eu)
 
 ## ⭐ I'm a high school student looking for fun!
 - 🎓 Attending [Purkyňka](http://www.sspbrno.cz/) high school 
