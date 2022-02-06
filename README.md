@@ -44,7 +44,8 @@
 <img align="left" alt="Syncthing" width="22px" src="icons/syncthing.svg" />
 <img align="left" alt="VSCode" width="22px" src="icons/vscode.svg" />
 <img align="left" alt="Windows" width="22px" src="icons/windows.svg" />
-<br /> 
+<br />
+
 <br /> 
 
 ### 📕 Latest Blog Posts
