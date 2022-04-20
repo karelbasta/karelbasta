@@ -7,6 +7,7 @@
 - 🎓 Attending [Purkyňka](http://www.sspbrno.cz/) high school 
 - 🔭 Looking for any interesting opportunity for personal development
 - 🌱 Learning some good practices
+- 🔭 I’m currently working on WoW TCG collection tracker app
 
 ### 🔌 Connect with me
 [<img align="left" alt="bastakka.eu" width="22px" src="icons/globe.svg" />][website]
