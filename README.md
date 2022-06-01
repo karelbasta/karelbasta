@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=static.bastakka.eu&style=for-the-badge&url=https%3A%2F%2Fstatic.bastakka.eu)](https://static.bastakka.eu)
 
 ## ⭐ I'm a high school student looking for fun!
-- 🎓 Attending [Purkyňka](http://www.sspbrno.cz/) high school 
+- 🎓 Graduated [Purkyňka](http://www.sspbrno.cz/) high school 
 - 🔭 Looking for any interesting opportunity for personal development
 - 🌱 Learning some good practices
 - 🔭 I’m currently working on WoW TCG collection tracker app
