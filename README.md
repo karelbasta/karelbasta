@@ -3,11 +3,10 @@
 [![Website](https://img.shields.io/website?label=radio.bastakka.eu&style=for-the-badge&url=https%3A%2F%2Fradio.bastakka.eu)](https://radio.bastakka.eu)
 [![Website](https://img.shields.io/website?label=static.bastakka.eu&style=for-the-badge&url=https%3A%2F%2Fstatic.bastakka.eu)](https://static.bastakka.eu)
 
-## ⭐ I'm a high school student looking for fun!
+## ⭐ I'm a graduated high school student looking for fun!
 - 🎓 Graduated [Purkyňka](http://www.sspbrno.cz/) high school 
 - 🔭 Looking for any interesting opportunity for personal development
 - 🌱 Learning some good practices
-- 🔭 I’m currently working on WoW TCG collection tracker app
 
 ### 🔌 Connect with me
 [<img align="left" alt="bastakka.eu" width="22px" src="icons/globe.svg" />][website]
