@@ -50,11 +50,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Škola, Shibuya a... Arkády?](https://bastakka.eu/skola-shibuya-a-arkady/)
+- [Cesta do země vycházejícího slunce ☀️](https://bastakka.eu/cesta-do-zeme-vychazejiciho-slunce/)
+- [Japonsko se blíží... Vlastně spíše já](https://bastakka.eu/japonsko-se-blizi/)
 - [Tahle animovaná postavička dělá živé vysílání kde?](https://bastakka.eu/tahle-animovana-postavicka-dela-zive-vysilani-kde/)
 - [Mé pracovní prostředí](https://bastakka.eu/me-pracovni-prostredi/)
-- [Vtuberky byly moje zábava v karanténě](https://bastakka.eu/vtuberky-byly-moje-zabava-v-karantene/)
-- [Proč je angličtina v mém životě důležitá](https://bastakka.eu/anglictina/)
-- [Dvoufázové ověření &quot;2FA&quot;](https://bastakka.eu/2fa/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [More blog posts...][website]
 
