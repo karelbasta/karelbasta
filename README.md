@@ -1,7 +1,7 @@
 ### 👋 Howdy!, I'm Karel "[Bastakka][website]" Bašta 🇨🇿
 [![Website](https://img.shields.io/website?label=bastakka.eu&style=for-the-badge&url=https%3A%2F%2Fbastakka.eu)](https://bastakka.eu)
 
-## ⭐ I'm a graduated high school student looking for fun!
+## ⭐ I'm an university student looking for fun!
 - 🎓 Graduated [Purkyňka](http://www.sspbrno.cz/) high school
 - 🎓 Attending [MENDELU](https://mendelu.cz/) university
 
