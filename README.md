@@ -1,12 +1,9 @@
 ### 👋 Howdy!, I'm Karel "[Bastakka][website]" Bašta 🇨🇿
 [![Website](https://img.shields.io/website?label=bastakka.eu&style=for-the-badge&url=https%3A%2F%2Fbastakka.eu)](https://bastakka.eu)
-[![Website](https://img.shields.io/website?label=radio.bastakka.eu&style=for-the-badge&url=https%3A%2F%2Fradio.bastakka.eu)](https://radio.bastakka.eu)
-[![Website](https://img.shields.io/website?label=static.bastakka.eu&style=for-the-badge&url=https%3A%2F%2Fstatic.bastakka.eu)](https://static.bastakka.eu)
 
 ## ⭐ I'm a graduated high school student looking for fun!
-- 🎓 Graduated [Purkyňka](http://www.sspbrno.cz/) high school 
-- 🔭 Looking for any interesting opportunity for personal development
-- 🌱 Learning some good practices
+- 🎓 Graduated [Purkyňka](http://www.sspbrno.cz/) high school
+- 🎓 Attending [MENDELU](https://mendelu.cz/) university
 
 ### 🔌 Connect with me
 [<img align="left" alt="bastakka.eu" width="22px" src="icons/globe.svg" />][website]
