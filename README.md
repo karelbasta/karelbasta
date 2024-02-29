@@ -42,7 +42,7 @@
 <img align="left" alt="VSCode" width="22px" src="icons/vscode.svg" />
 <img align="left" alt="Windows" width="22px" src="icons/windows.svg" />
 <br />
-
+<br />
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karelbasta&show_icons=true&theme=tokyonight&hide_border=true&border_radius=0&include_all_commits=true" />
