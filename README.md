@@ -43,18 +43,6 @@
 <img align="left" alt="Windows" width="22px" src="icons/windows.svg" />
 <br />
 
-<br /> 
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Škola, Shibuya a... Arkády?](https://bastakka.eu/skola-shibuya-a-arkady/)
-- [Cesta do země vycházejícího slunce ☀️](https://bastakka.eu/cesta-do-zeme-vychazejiciho-slunce/)
-- [Japonsko se blíží... Vlastně spíše já](https://bastakka.eu/japonsko-se-blizi/)
-- [Tahle animovaná postavička dělá živé vysílání kde?](https://bastakka.eu/tahle-animovana-postavicka-dela-zive-vysilani-kde/)
-- [Mé pracovní prostředí](https://bastakka.eu/me-pracovni-prostredi/)
-<!-- BLOG-POST-LIST:END -->
-➡️ [More blog posts...][website]
-
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karelbasta&show_icons=true&theme=tokyonight&hide_border=true&border_radius=0&include_all_commits=true" />
